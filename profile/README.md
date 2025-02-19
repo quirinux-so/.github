@@ -1,6 +1,6 @@
 ## 👋 ¡Te damos la bienvenida!  
 
-Este es el repositorio oficial de **Quirinux**, el sistema operativo desarrollado para la **producción de cine animado**.  
+Este es el repositorio oficial de **Quirinux**, el primer sistema operativo desarrollado para la **producción de cine animado**.  
 
 Aquí encontrarás aplicaciones diseñadas exclusivamente para Quirinux, optimizando el flujo de trabajo en animación y facilitando la configuración del sistema, entre otras:  
 
@@ -30,7 +30,7 @@ Puedes sugerir mejoras, reportar problemas o colaborar en el desarrollo de estas
 
 ## 👋 Welcome!  
 
-This is the official repository of **Quirinux**, the operating system developed for **animated film production**.  
+This is the official repository of **Quirinux**, the first operating system developed for **animated film production**.  
 
 Here you'll find applications designed exclusively for Quirinux, optimizing animation workflows and simplifying system configuration, among others:  
 
